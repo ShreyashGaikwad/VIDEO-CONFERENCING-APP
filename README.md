@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Video Conferencing Website
 
 This website is built using Javascript. This website enables us to do video calling and chatting. It is built using NodeJs, ExpressJs, PeerJs and Socket.io.
@@ -58,3 +59,6 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
+=======
+# VIDEO-CONFERENCING-APP
+>>>>>>> 7f07932b02b48e1f2929ada9aaf805b8c8a61156
